@@ -1,0 +1,3 @@
+include ':EasyLog'
+include ':app'
+rootProject.name = "LogUtilExample"
